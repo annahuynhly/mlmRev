@@ -1,12 +1,15 @@
 Package: mlmRev
-Version: 1.0-8
-Date: 2020-04-04
+Version: 1.0-9
 Title: Examples from Multilevel Modelling Software Review
-Author: Douglas Bates <bates@stat.wisc.edu>,
-        Martin Maechler <maechler@R-project.org> and
-	Ben Bolker <bolker@mcmaster.ca>
-Contact: LME4 Authors <lme4-authors@lists.r-forge.r-project.org>
-Maintainer: Steve Walker <steve.walker@utoronto.ca>
+Authors@R:
+    c(person("Douglas", "Bates", role = "aut",
+             comment = c(ORCID = "0000-0001-8316-9503")),
+      person("Martin", "Maechler", role = "aut",
+             comment = c(ORCID = "0000-0002-8685-9910")),
+      person("Ben", "Bolker", role = c("cre", "aut"),
+             email = "bbolker+lme4@gmail.com",
+             comment = c(ORCID = "0000-0002-2127-0443")))
+Maintainer: Anna Ly <annahuynh.ly@utoronto.ca>
 Description: Data and examples from a multilevel modelling software review
   as well as other well-known data sets from the multilevel modelling
   literature.
@@ -15,6 +18,5 @@ Suggests: lattice
 LazyData: yes
 License: GPL (>= 2)
 NeedsCompilation: no
-Packaged: 2020-04-05 02:41:42 UTC; stevew
+URL: https://github.com/annahuynhly/mlmRev
 Repository: CRAN
-Date/Publication: 2020-04-05 04:50:05 UTC

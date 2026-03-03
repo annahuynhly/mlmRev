@@ -26,9 +26,8 @@
   \url{http://www.bristol.ac.uk/cmm/learning/mmsoftware/data-rev.html}
 }
 \references{
-  Steele, F., Diamond, I. And Amin, S. (1996). Immunization uptake in
-  rural Bangladesh: a multilevel analysis. \emph{Journal of the Royal
-    Statistical Society, Series A} (159): 289-299.
+  Huq, N. M., and Cleland, J. (1990). \emph{Bangladesh Fertility Survey 1989 
+  (Main Report)} Dhaka: National Institute of Population Research and Training.
 }
 \examples{
 str(Contraception)
