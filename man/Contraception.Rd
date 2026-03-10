@@ -23,7 +23,7 @@
 }
 %\details{}
 \source{
-  \url{http://www.bristol.ac.uk/cmm/learning/mmsoftware/data-rev.html}
+  \url{https://www.bristol.ac.uk/cmm/learning/mmsoftware/data-rev.html}
 }
 \references{
   Huq, N. M., and Cleland, J. (1990). \emph{Bangladesh Fertility Survey 1989 

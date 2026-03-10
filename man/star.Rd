@@ -52,11 +52,13 @@ which was  a large-scale, four-year study of the effect of reduced class size.
 Details of the original data source and the process of conversion to
 this representation are given in the vignette.
 }
-\source{
-  \url{http://www.heros-inc.org/data.htm}
-}
 %\references{}
 \examples{
 str(star)
+}
+\references{
+  Word, E., Johnston, J., Bain, H.P., et al. (1994). \emph{The State of Tennessee's 
+  Student/Teacher Achievement Ratio (STAR) Project: Technical Report 1985–1990.} 
+  Nashville: Tennessee State Department of Education.
 }
 \keyword{datasets}

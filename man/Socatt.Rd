@@ -35,7 +35,7 @@
   multinomial response.
 }
 \source{
-  \url{http://www.bristol.ac.uk/cmm/learning/mmsoftware/data-rev.html}
+  \url{https://www.bristol.ac.uk/cmm/learning/mmsoftware/data-rev.html}
 }
 \references{
   McGrath, K. and Waterton, J. (1986). \emph{British Social Attitudes

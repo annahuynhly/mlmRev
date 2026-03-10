@@ -2,7 +2,7 @@
 \title{Covariates in the Rodriguez and Goldman simulation}
 \docType{data}
 \alias{s3bbx}
-\encoding{latin1}
+\encoding{UTF-8}
 \usage{data(s3bbx)}
 \description{
   The \code{s3bbx} data frame has 2449 rows and 6 columns of the
@@ -21,10 +21,11 @@
   }
 }
 \source{
-  \url{http://data.princeton.edu/multilevel/simul.htm}
+  This data was previously available at
+  \url{https://web.archive.org/web/20070629024256/http://data.princeton.edu/multilevel/simul.htm}
 }
 \references{
-  Rodriguez, Germ�n and Goldman, Noreen (1995)
+  Rodrígue, Germáan and Goldman, Noreen (1995)
   An assessment of estimation procedures for multilevel models with
   binary responses,
   \emph{Journal of the Royal Statistical Society, Series A} \bold{158}, 73--89.

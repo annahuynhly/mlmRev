@@ -36,13 +36,13 @@
 }
 %\details{}
 \source{
-  These data are available at
-  \url{http://data.princeton.edu/multilevel/guPrenat.dat}.  Multiple
+  This data was previously available at
+  \url{https://web.archive.org/web/20220630035028/https://data.princeton.edu/multilevel/guPrenat.dat}.  Multiple
   indicator columns in the original data table have been collapsed to
   factors for this data frame.
 }
 \references{
-  Rodriguez, Germán and Goldman, Noreen (1995), "Improved estimation
+  Rodriguez, Germ?n and Goldman, Noreen (1995), "Improved estimation
   procedures for multilevel models with binary response: a case-study",
   \emph{Journal of the Royal Statistical Society, Series A}, \bold{164},
   339-355.

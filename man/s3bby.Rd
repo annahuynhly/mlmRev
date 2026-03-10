@@ -16,10 +16,11 @@
   An integer matrix with 2449 rows and 100 columns.
 }
 \source{
-  \url{http://data.princeton.edu/multilevel/simul.htm}
+  This data was previously available at
+  \url{https://web.archive.org/web/20070629024256/http://data.princeton.edu/multilevel/simul.htm}
 }
 \references{
-  Rodriguez, Germán and Goldman, Noreen (1995)
+  Rodriguez, Germ?n and Goldman, Noreen (1995)
   An assessment of estimation procedures for multilevel models with
   binary responses,
   \emph{Journal of the Royal Statistical Society, Series A} \bold{158}, 73--89.
