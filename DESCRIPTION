@@ -6,12 +6,12 @@ Authors@R:
              comment = c(ORCID = "0000-0001-8316-9503")),
       person("Martin", "Maechler", role = "aut",
              comment = c(ORCID = "0000-0002-8685-9910")),
-      person("Ben", "Bolker", role = c("cre", "aut"),
+      person("Ben", "Bolker", role = "aut",
              email = "bbolker+lme4@gmail.com",
              comment = c(ORCID = "0000-0002-2127-0443")),
-      person("Anna", "Ly", role = "ctb",
+      person("Anna", "Ly", role = "cre",
+             email = "annahuynh.ly@utoronto.ca",
              comment = c(ORCID = "0000-0002-0210-0342")))
-Maintainer: Anna Ly <annahuynh.ly@utoronto.ca>
 Description: Data and examples from a multilevel modelling software review
   as well as other well-known data sets from the multilevel modelling
   literature.
