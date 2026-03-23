@@ -22,7 +22,8 @@
 }
 \source{
   This data was previously available at
-  \url{https://web.archive.org/web/20070629024256/http://data.princeton.edu/multilevel/simul.htm}
+  \url{https://web.archive.org/web/20070629024256/http://data.princeton.edu/multilevel/simul.htm}.
+  Currently, it can be found somewhere on \url{https://grodri.github.io/research/simul}.
 }
 \references{
   Rodrígue, Germáan and Goldman, Noreen (1995)

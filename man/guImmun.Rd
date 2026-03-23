@@ -42,8 +42,9 @@
 %\details{}
 \source{
   The data was previously available at
-  \url{https://web.archive.org/web/20220630033626/http://data.princeton.edu/multilevel/guImmun.dat}.  Multiple
-  indicator columns in the original data table have been collapsed to
+  \url{https://web.archive.org/web/20220630033626/http://data.princeton.edu/multilevel/guImmun.dat}.
+  But how one can find it on \url{https://grodri.github.io/research/guat}. 
+  Multiple indicator columns in the original data table have been collapsed to
   factors for this data frame.
 }
 \references{
