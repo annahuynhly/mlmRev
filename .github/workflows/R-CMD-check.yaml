@@ -42,8 +42,9 @@ jobs:
           
       - uses: r-lib/actions/setup-tinytex@v2
       - name: Install missing LaTeX packages
-        run: tlmgr install grfext oberdiek preprint
-        shell: bash
+        run: |
+          tinytex::tlmgr_install(c("grfext", "oberdiek", "preprint"))
+        shell: Rscript {0}
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
           extra-packages: any::rcmdcheck
