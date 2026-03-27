@@ -6,6 +6,8 @@
 [![downloads](http://cranlogs.r-pkg.org/badges/mlmRev)](http://cranlogs.r-pkg.org/badges/mlmRev)
 [![total downloads](http://cranlogs.r-pkg.org/badges/grand-total/mlmRev)](http://cranlogs.r-pkg.org/badges/grand-total/mlmRev)
 
+Data and examples from a multilevel modelling software review as well as other well-known data sets from the multilevel modelling literature.
+
 ## Installation
 
 You can install the development version of mlmRev from [GitHub](https://github.com/) with:
