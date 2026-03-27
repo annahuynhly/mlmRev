@@ -46,6 +46,7 @@ jobs:
         with:
           extra-packages: any::rcmdcheck, any::tinytex
           needs: check
+          cache: ${{ matrix.config.r != 'devel' }}
       
       - uses: r-lib/actions/setup-tinytex@v2
       - name: Install missing LaTeX packages
