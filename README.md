@@ -16,3 +16,6 @@ You can install the development version of mlmRev from [GitHub](https://github.c
 # install.packages("pak")
 pak::pak("annahuynhly/mlmRev")
 ```
+## Issues, Discussions, and Pull Requests
+
+Feel free to report [issues](https://github.com/annahuynhly/mlmRev/issues), ask questions in [discussions](https://github.com/annahuynhly/mlmRev/discussions) and submit a [pull request](https://github.com/annahuynhly/mlmRev/pulls). 
