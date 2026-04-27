@@ -48,10 +48,10 @@ jobs:
           needs: check
           cache: ${{ matrix.config.r != 'devel' }}
       
-      - uses: r-lib/actions/setup-tinytex@v2
-      - name: Install missing LaTeX packages
+      - name: Install TinyTeX and LaTeX packages
         run: |
-          tinytex::tlmgr_install(c("grfext", "oberdiek", "preprint", 
+          tinytex::install_tinytex()
+          tinytex::tlmgr_install(c("grfext", "oberdiek", "preprint",
                                    "courier", "ec", "urw-base35"))
         shell: Rscript {0}
           
